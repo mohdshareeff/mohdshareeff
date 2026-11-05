@@ -1,124 +1,88 @@
 
-<!-- ===================================================== -->
-<!--                 MOHAMED SHAREEF PROFILE                -->
-<!-- ===================================================== -->
+<div align="center">
 
-<!-- CUSTOM BANNER -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C3CE9,100:9B5DE5&height=180&section=header&text=Mohamed%20Shareef&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Aspiring%20Software%20Engineer&descAlignY=60&descSize=16"
-    width="100%"
-    alt="Mohamed Shareef profile banner"
-  />
-</p>
+<!-- ANIMATED GRADIENT BANNER -->
 
-<!-- INTRODUCTION -->
-<h1 align="center">
-  Hey, I'm Mohamed Shareef 👋
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050014,45:24005C,75:6F00FF,100:00F7FF&height=240&section=header&text=MOHAMED%20SHAREEF%20S&fontSize=54&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=SOFTWARE%20ENGINEER&descAlignY=60&descSize=16&descColor=08F7FE" width="100%"/>
 
-<h3 align="center">
-  AI & Data Science Student | Aspiring Software Engineer
-</h3>
+<!-- ANIMATED TYPING TEXT -->
 
-<p align="center">
-  Building reliable, efficient and intelligent systems
-  with Java, backend development and computer vision.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=700&color=08F7FE&center=true&vCenter=true&width=780&lines=Java+%7C+Spring+Boot+%7C+DSA;Backend+Engineering+%7C+Android;AI+%2F+Computer+Vision+Enthusiast;Building+Real-World+Software+Systems;B.Tech+%2727+%40+Vel+Tech" alt="Typing SVG"/>
 
-<p align="center">
-  <a href="https://github.com/mohdshareeff">
-    <img src="https://komarev.com/ghpvc/?username=mohdshareeff&label=Profile%20Views&color=6C3CE9&style=for-the-badge" />
-  </a>
-</p>
+<br>
 
 <!-- SOCIAL LINKS -->
-<p align="center">
-  <a href="https://github.com/mohdshareeff">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohamed-shareef-380459276">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:shareefreyash@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+
+<a href="https://github.com/mohdshareeff">
+<img src="https://img.shields.io/badge/GitHub-050014?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mohamed-shareef-380459276">
+<img src="https://img.shields.io/badge/LinkedIn-050014?style=for-the-badge&logo=linkedin&logoColor=08F7FE"/>
+</a>
+
+<a href="mailto:shareefreyash@gmail.com">
+<img src="https://img.shields.io/badge/Email-050014?style=for-the-badge&logo=gmail&logoColor=FF2079"/>
+</a>
+
+<br><br>
+
+<!-- PROFILE VIEWS -->
+
+<img src="https://komarev.com/ghpvc/?username=mohdshareeff&style=for-the-badge&color=6F00FF&label=PROFILE+VIEWS"/>
+
+</div>
 
 ---
 
-<!-- ABOUT ME -->
-## 👨‍💻 About Me
+<div align="center">
 
-I'm a final-year B.Tech student in **Artificial Intelligence and Data Science** at Vel Tech, with hands-on experience in software development, backend fundamentals, Android applications and computer vision.
+## 👋 Hey, I'm Shareef
 
-I enjoy building practical systems that combine intelligent algorithms with reliable software engineering.
+### AI & Data Science Student • Aspiring Software Engineer
 
-- 🎓 B.Tech in Artificial Intelligence & Data Science
-- 💻 Aspiring Software Development Engineer
-- ☕ Strong interest in Java, DSA and backend development
-- 🤖 Interested in Computer Vision and intelligent systems
-- 🔐 Experience with secure Android applications
-- ⚙️ Worked on embedded C and automotive lighting automation
-- 📍 Chennai, India
+</div>
 
----
+I'm a **final-year B.Tech student in Artificial Intelligence and Data Science at Vel Tech**, graduating in 2027.
 
-<!-- TECH STACK -->
-## 🛠️ Tech Stack
+I enjoy building software that connects **strong computer science fundamentals with real-world problems** — from backend applications and secure mobile systems to AI-powered applications and computer vision.
 
-### Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-</p>
-
-### Core Computer Science
-
-<p>
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-6C3CE9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-6C3CE9?style=flat-square" />
-  <img src="https://img.shields.io/badge/DBMS-6C3CE9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Operating%20Systems-6C3CE9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Computer%20Networks-6C3CE9?style=flat-square" />
-</p>
-
-### Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,firebase" />
-  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-</p>
-
-### Mobile Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=androidstudio" />
-</p>
-
-### AI & Computer Vision
-
-<p>
-  <img src="https://img.shields.io/badge/Computer%20Vision-6C3CE9?style=flat-square" />
-  <img src="https://img.shields.io/badge/YOLOv8-111111?style=flat-square" />
-  <img src="https://img.shields.io/badge/OCR-6C3CE9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Text--to--Speech-6C3CE9?style=flat-square" />
-</p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker" />
-</p>
+```text
+Software Engineering    → Java • Spring Boot • Android
+Problem Solving         → DSA • OOP • Algorithms
+Computer Science        → DBMS • OS • Networks
+AI / Computer Vision    → YOLOv8 • OCR • Text-to-Speech
+```
 
 ---
 
-<!-- EDUCATION -->
-## 🎓 Education
+<div align="center">
+
+## ⚡ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=java,python,c&theme=dark&perline=8"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=spring,firebase,mysql&theme=dark&perline=8"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=androidstudio,git,github,docker,vscode,idea&theme=dark&perline=8"/>
+
+<br><br>
+
+`Java` · `Python` · `C` · `SQL` · `Spring Boot` · `Firebase` · `Firestore`
+
+`Android` · `Git` · `GitHub` · `Docker` · `YOLOv8` · `OCR`
+
+`DSA` · `OOP` · `DBMS` · `Operating Systems` · `Computer Networks`
+
+</div>
+
+---
+
+# 🎓 Education
 
 **Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology**
 
@@ -130,8 +94,7 @@ Bachelor of Technology — Artificial Intelligence and Data Science
 
 ---
 
-<!-- EXPERIENCE -->
-## 💼 Work Experience
+# 💼 Experience
 
 ### AI Automation Intern — Motofocusz
 
@@ -144,8 +107,7 @@ Bachelor of Technology — Artificial Intelligence and Data Science
 
 ---
 
-<!-- CERTIFICATIONS -->
-## 📜 Certifications & Learning
+# 📜 Certifications & Learning
 
 - **Introduction to SQL** — HackerRank
 - **Java Programming Fundamentals** — Infosys Springboard
@@ -154,72 +116,67 @@ Bachelor of Technology — Artificial Intelligence and Data Science
 
 ---
 
-<!-- GITHUB STATS -->
-## 📊 GitHub Statistics
+# 📈 GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mohdshareeff&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B5DE5&icon_color=9B5DE5"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdshareeff&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B5DE5"
-    height="170"
-  />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats-fast.vercel.app/api?username=mohdshareeff&show_icons=true&theme=radical&hide_border=true&bg_color=050014&title_color=08F7FE&icon_color=FF2079&text_color=C9D1D9&include_all_commits=true" height="170"/>
 
-<!-- CONTRIBUTION STREAK -->
-## 🔥 Contribution Streak
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=mohdshareeff&theme=radical&hide_border=true&background=050014&ring=08F7FE&fire=FF2079&currStreakLabel=08F7FE" height="170"/>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=mohdshareeff&theme=tokyonight&hide_border=true&background=0D1117&ring=9B5DE5&fire=9B5DE5&currStreakLabel=9B5DE5"
-    alt="GitHub contribution streak"
-  />
-</p>
+<br><br>
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mohdshareeff&layout=compact&theme=radical&hide_border=true&bg_color=050014&title_color=08F7FE&text_color=C9D1D9&langs_count=8" height="160"/>
+
+</div>
 
 ---
 
-<!-- CONTRIBUTION GRAPH -->
-## 📈 Contribution Activity
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mohdshareeff&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=9B5DE5&line=6C3CE9&point=FFFFFF"
-    width="100%"
-    alt="GitHub contribution activity graph"
-  />
-</p>
+## 🐍 Contribution Graph
+
+<img src="https://raw.githubusercontent.com/mohdshareeff/mohdshareeff/output/github-contribution-grid-snake-dark.svg" width="92%"/>
+
+</div>
 
 ---
 
-<!-- CONNECT -->
-## 🤝 Let's Connect
+# 🎯 Currently
 
-<p align="center">
-  I'm always interested in learning, building and collaborating
-  on meaningful software projects.
-</p>
+```text
+▸ Strengthening Java & DSA fundamentals
+▸ Learning backend development with Spring Boot
+▸ Exploring system design
+▸ Building reliable software applications
+▸ Exploring AI-powered systems and computer vision
+▸ Preparing for Software Engineering opportunities
+```
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-shareef-380459276">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:shareefreyash@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+---
 
-<p align="center">
-  <i>Building. Learning. Improving. One commit at a time.</i>
-</p>
+<div align="center">
 
-<!-- FOOTER -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C3CE9,100:9B5DE5&height=100&section=footer"
-    width="100%"
-  />
-</p>
+# Let's Build Something.
+
+I'm interested in **meaningful engineering problems, backend systems, AI applications and opportunities to learn by building.**
+
+<br>
+
+<a href="https://www.linkedin.com/in/mohamed-shareef-380459276">
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-6F00FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shareefreyash@gmail.com">
+<img src="https://img.shields.io/badge/SEND_EMAIL-FF2079?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<code>build(); learn(); debug(); repeat();</code>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08F7FE,40:6F00FF,70:24005C,100:050014&height=150&section=footer" width="100%"/>
+
+</div>
