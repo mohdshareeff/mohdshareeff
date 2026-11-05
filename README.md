@@ -125,27 +125,45 @@ Bachelor of Technology — Artificial Intelligence and Data Science
 
 ---
 
-# 💼 Experience
 
-### AI Automation Intern — Motofocusz
+<!-- EXPERIENCE -->
 
-📍 Hybrid | 3 Months
+---
+
+<div align="center">
+
+## 💼 EXPERIENCE
+
+</div>
+
+### **AI Automation Intern** · Motofocusz
+
+<p align="left">
+  <i>Hybrid · 3 Months</i>
+</p>
 
 - Worked on AI-driven automotive lighting systems inspired by Audi Matrix LED technology.
 - Developed embedded C modules for intelligent lighting control logic and adaptive beam pattern algorithms.
-- Contributed to automation algorithms improving real-time response.
+- Contributed to automation algorithms focused on improving real-time response.
 - Collaborated with hardware and software teams.
+
+<!-- CERTIFICATIONS -->
 
 ---
 
-# 📜 Certifications & Learning
+<div align="center">
+
+## 📜 CERTIFICATIONS & LEARNING
+
+</div>
 
 - **Introduction to SQL** — HackerRank
 - **Java Programming Fundamentals** — Infosys Springboard
-- **Advanced DSA** — Kunal Kushwaha *(In Progress)*
+- **Advanced DSA** — Kunal Kushwaha <sub>IN PROGRESS</sub>
 - **Generative AI** — Industry Workshop on Generative AI Fundamentals
 
 ---
+
 
 # 📈 GitHub Activity
 
