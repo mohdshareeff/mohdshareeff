@@ -58,29 +58,60 @@ AI / Computer Vision    → YOLOv8 • OCR • Text-to-Speech
 
 <div align="center">
 
-## ⚡ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,python,c&theme=dark&perline=8"/>
+<!-- TECH STACK -->
 
-<br><br>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=spring,firebase,mysql&theme=dark&perline=8"/>
+## ⚡ TECH STACK
 
-<br><br>
+<br>
 
-<img src="https://skillicons.dev/icons?i=androidstudio,git,github,docker,vscode,idea&theme=dark&perline=8"/>
+### `01` — PROGRAMMING LANGUAGES
 
-<br><br>
+`Java` · `Python` · `C` · `SQL`
 
-`Java` · `Python` · `C` · `SQL` · `Spring Boot` · `Firebase` · `Firestore`
+<br>
 
-`Android` · `Git` · `GitHub` · `Docker` · `YOLOv8` · `OCR`
+### `02` — CORE COMPUTER SCIENCE
 
-`DSA` · `OOP` · `DBMS` · `Operating Systems` · `Computer Networks`
+`Data Structures & Algorithms` · `OOP`
 
-</div>
+`DBMS` · `Operating Systems` · `Computer Networks`
+
+<br>
+
+### `03` — BACKEND & DATABASE
+
+`Spring Boot` · `Firebase` · `Firestore`
+
+<br>
+
+### `04` — MOBILE DEVELOPMENT
+
+`Android Development` · `Android Studio`
+
+<br>
+
+### `05` — AI & COMPUTER VISION
+
+`Computer Vision` · `YOLOv8` · `OCR`
+
+`Text-to-Speech` · `Object Detection`
+
+<br>
+
+### `06` — TOOLS & PLATFORMS
+
+`Git` · `GitHub` · `IntelliJ IDEA`
+
+`VS Code` · `Docker` · `SSMS`
+
+<br>
 
 ---
+
+</div>
 
 # 🎓 Education
 
