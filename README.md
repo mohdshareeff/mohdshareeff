@@ -130,17 +130,7 @@ Bachelor of Technology — Artificial Intelligence and Data Science
 
 </div>
 
----
 
-<div align="center">
-
-## 🐍 Contribution Graph
-
-<img src="https://raw.githubusercontent.com/mohdshareeff/mohdshareeff/output/github-contribution-grid-snake-dark.svg" width="92%"/>
-
-</div>
-
----
 
 # 🎯 Currently
 
